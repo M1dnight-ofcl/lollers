@@ -1,4 +1,5 @@
 Option Explicit
+
 do
 Dim url
 Set url= CreateObject("WScript.Shell")
